@@ -79,34 +79,6 @@ Este projeto foi desenvolvido como Trabalho de Conclusão de Curso de Ciência d
 
 ---
 
-## 📈 Principais Gráficos
-
-### Distribuição das Classes
-![Pizza do Desbalanceamento](graficos/grafico1_pizza_desbalanceamento.png)
-
-### t-SNE - Clusters de Fraudes
-![t-SNE](graficos/grafico2_tsne_fraudes.png)
-
-### Comparação de Abordagens
-![Comparação de Abordagens](graficos/grafico3_comparacao_abordagens.png)
-
-### Comparação de Modelos
-![Comparação de Modelos](graficos/grafico4_comparacao_modelos.png)
-
-### Matriz de Confusão
-![Matriz de Confusão](graficos/grafico5_matriz_confusao.png)
-
-### Trade-off Recall vs Falsos Positivos
-![Trade-off](graficos/grafico6_tradeoff.png)
-
-### Curva Precision-Recall
-![Curva PR](graficos/grafico7_curva_pr.png)
-
-### Impacto Financeiro
-![Impacto Financeiro](graficos/grafico8_impacto_financeiro.png)
-
----
-
 ## 💡 Principais Insights
 
 1. **Fraudes formam clusters** - A visualização t-SNE mostrou que transações fraudulentas tendem a se agrupar, indicando padrões distintos.
