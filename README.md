@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso de Ciência de Dados, simulando um case real de detecção de fraudes para o Banco Global Trust. O objetivo principal é construir um modelo de machine learning capaz de identificar transações fraudulentas com alta taxa de recall (prioridade do stakeholder), mesmo em um cenário de dados extremamente desbalanceados.
 
